@@ -1,0 +1,32 @@
+head {
+    margin: 0;
+}
+
+.navBar {
+    background-color: #972700;
+    overflow: hidden;
+}
+
+.navBar a {
+    color: white;
+    text-align: center;
+    padding: 0 14px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navBar a:hover {
+    transition: color 0.3 ease;
+    color: #E5C9BF;
+}
+
+.navBar a.active {
+    color: red;
+}
+
+.banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:95%;
+}
