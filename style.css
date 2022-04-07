@@ -137,7 +137,6 @@ tr:hover {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-
 .icon {
     width: 60px;
     height: 60px;
@@ -158,4 +157,10 @@ tr:hover {
 
 .icons-info1 {
     flex-direction: row;
+}
+
+.grid-icons {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
