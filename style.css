@@ -159,7 +159,7 @@ tr:hover {
     flex-direction: row;
 }
 
-.grid-icons {
+.grid-icon {
     display: flex;
     align-items: center;
     flex-direction: column;
