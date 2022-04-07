@@ -93,8 +93,8 @@ tr:hover {
     color: #333339;
 }
 
-#contactoHotel {
-    color: black;
+.contactoHotel {
+    margin-left: 30px;
 }
 
 .hotelPics {
