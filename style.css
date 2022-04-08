@@ -164,3 +164,14 @@ tr:hover {
     align-items: center;
     flex-direction: column;
 }
+
+.grid-icon h4 {
+    color: #972700;
+    font-size: 30px;
+    margin-top: 8px;
+    margin-bottom: -3px;
+}
+
+.grid-icon p {
+    margin-bottom: 50px;
+}
